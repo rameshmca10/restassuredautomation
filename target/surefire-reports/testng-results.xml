@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5160" started-at="2021-09-14T18:32:34 IST" finished-at="2021-09-14T18:32:40 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5160" started-at="2021-09-14T18:32:34 IST" finished-at="2021-09-14T18:32:40 IST">
+      <class name="com.ae.test.SampleTest2">
+        <test-method status="PASS" signature="getresponsemap()[pri:0, instance:com.ae.test.SampleTest2@bbe345]" name="getresponsemap" duration-ms="5074" started-at="2021-09-14T18:32:34 IST" finished-at="2021-09-14T18:32:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getresponsemap -->
+      </class> <!-- com.ae.test.SampleTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
