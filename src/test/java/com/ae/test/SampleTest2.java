@@ -5,7 +5,6 @@ import com.ae.log.Log;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.testng.Assert;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import io.restassured.response.Response;
